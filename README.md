@@ -5,8 +5,8 @@
 
 <div align="center">
 
-<!-- HEADER BANNER — replace with your own Zero Two banner (see README-HOWTO.md) -->
-<img src="assets/banner.svg" alt="banner" width="100%"/>
+<!-- HEADER BANNER — Zero Two Anime Wallpaper Banner -->
+<img src="assets/header-with-text.jpg" alt="Aar Saputra - Zero Two Banner" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/aarsaputra">
